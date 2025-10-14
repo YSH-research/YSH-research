@@ -23,7 +23,7 @@
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 <br><br><br>
-![YSH-research's GitHub stats](https://github-readme-stats.vercel.app/api?username=YSH-research&show_icons=true&theme=dracula&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![YSH-research's GitHub stats](https://github-readme-stats.vercel.app/api?username=YSH-research&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&bg_color=FFFFFF&title_color=000000&text_color=000000&icon_color=000000)
 
 
 
