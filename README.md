@@ -38,10 +38,10 @@
 <br><br>
 ![YSH-research's GitHub stats](https://github-readme-stats.vercel.app/api?username=YSH-research&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&bg_color=FFFFFF&title_color=000000&text_color=000000&icon_color=000000)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YSH-research&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=YSH-research&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-![snake animation](https://github.com/YSH-research/YOUR_USERNAME/blob/output/snake.svg)
+![snake animation](https://github.com/YSH-research/YSH-research/blob/output/snake.svg)
 
 
