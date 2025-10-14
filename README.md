@@ -40,7 +40,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=YSH-research&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/snake.svg)
 
