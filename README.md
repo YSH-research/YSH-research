@@ -26,6 +26,8 @@
 ![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googleai&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-000000?style=for-the-badge&logo=perplexityai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D06A58?style=for-the-badge&logo=anthropic&logoColor=white)
 <br><br>
 **Comunication**
 <br>
