@@ -42,6 +42,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=YSH-research&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-![snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/snake.svg)
+![snake animation](https://github.com/YSH-research/YOUR_USERNAME/blob/output/snake.svg)
 
 
