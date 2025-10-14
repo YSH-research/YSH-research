@@ -31,6 +31,8 @@
 <br>
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
 <br><br><br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=YOUR_ID&theme=dark)](https://solved.ac/YOUR_ID)
 <br><br>
@@ -42,6 +44,4 @@
 
 ![snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/snake.svg)
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 
-![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
