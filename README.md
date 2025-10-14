@@ -29,7 +29,12 @@ Language
 <br><br>
 ![YSH-research's GitHub stats](https://github-readme-stats.vercel.app/api?username=YSH-research&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&bg_color=FFFFFF&title_color=000000&text_color=000000&icon_color=000000)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
+![snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/snake.svg)
 
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 
+![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
