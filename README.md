@@ -44,7 +44,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=YOUR_ID&theme=dark)](https://solved.ac/YOUR_ID)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YSH-research&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=YSH-research&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[[![trophy](https://github-profile-trophy.vercel.app/?username=YSH-research&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)](https://github-profile-trophy.vercel.app/?username=YSH-research)
 
 
 
