@@ -41,7 +41,7 @@
 <br><br>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YSH-research&theme=dark)
 <br><br>
-[![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=yshgit&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+![LeetCode Stats](https://leetcode.card.workers.dev/yshgit?theme=dark&font=baloo&extension=null)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YSH-research&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
 [[![trophy](https://github-profile-trophy.vercel.app/?username=YSH-research&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)](https://github-profile-trophy.vercel.app/?username=YSH-research)
