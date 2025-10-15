@@ -41,7 +41,7 @@
 <br><br>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YSH-research&theme=dark)
 <br><br>
-![LeetCode](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=grey&color=%23ffffff&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fyshgit&logo=leetcode&logoColor=white)
+![LeetCode](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=white&color=%23000000&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fyshgit&logo=leetcode&logoColor=black)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YSH-research&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
 [[![trophy](https://github-profile-trophy.vercel.app/?username=YSH-research&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)](https://github-profile-trophy.vercel.app/?username=YSH-research)
