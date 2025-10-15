@@ -39,7 +39,7 @@
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
 <br><br>
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YSH-research&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YSH-research&theme=dark)
 <br><br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=YOUR_ID&theme=dark)](https://solved.ac/YOUR_ID)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YSH-research&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
