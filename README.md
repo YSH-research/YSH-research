@@ -25,6 +25,8 @@
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googleai&logoColor=white)
 ![Perplexity](https://img.shields.io/badge/Perplexity-000000?style=for-the-badge&logo=perplexityai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D06A58?style=for-the-badge&logo=anthropic&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![venv](https://img.shields.io/badge/venv-3776AB?style=for-the-badge&logo=python&logoColor=white)
 <br><br>
 **Comunication**
 <br>
