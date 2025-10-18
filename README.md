@@ -42,11 +42,11 @@
 <img src="https://wakatime.com/share/@20bef202-7584-45bd-9bb7-90dc982a12ec/aad64cf8-814c-4cd1-b0d0-5ce7110a5a52.svg" alt="WakaTime 코딩 활동 차트" width="400px" />
 <img src="https://wakatime.com/share/@20bef202-7584-45bd-9bb7-90dc982a12ec/e1664775-209f-4ef0-b1a7-d00f27486fb3.svg" alt="WakaTime 코딩 활동 차트" width="400px" />
 <img src="https://wakatime.com/share/@20bef202-7584-45bd-9bb7-90dc982a12ec/198e49cc-f624-47a3-a890-ce8523eb34f3.svg" alt="WakaTime 코딩 활동 차트" width="400px" />
-<!-- <br><br>
+<br><br>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YSH-research&theme=dark)
 <br><br>
 ![LeetCode Stats](https://leetcode.card.workers.dev/yshgit?theme=light&font=source_code_pro&extension=null)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YSH-research&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YSH-research&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
 <br>
 ![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=YSH-research&theme=radical)
 
