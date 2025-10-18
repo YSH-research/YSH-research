@@ -48,7 +48,8 @@
 ![LeetCode Stats](https://leetcode.card.workers.dev/yshgit?theme=light&font=source_code_pro&extension=null)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YSH-research&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
 <br>
-[[![trophy](https://github-profile-trophy.vercel.app/?username=YSH-research&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)](https://github-profile-trophy.vercel.app/?username=YSH-research)
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=YSH-research&theme=radical)
+
 
 
 
