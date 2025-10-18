@@ -38,7 +38,7 @@
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
 <br><br>
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YSH-research&theme=radical&layout=compact)
+<figure><embed src="https://wakatime.com/share/@20bef202-7584-45bd-9bb7-90dc982a12ec/4b15cd02-19be-4e65-b50a-74bd4512d8a9.svg"></embed></figure>
 <br><br>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YSH-research&theme=dark)
 <br><br>
