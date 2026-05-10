@@ -38,8 +38,9 @@
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YSH&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=666666&border_color=cccccc&hide_border=false" alt="WakaTime Stats" width="400px" />
-<br>
+<figure><embed src="https://wakatime.com/share/@YSH/b36c092b-cae6-4af4-ac2e-e3e3bce0dcb6.svg"></embed></figure>
+
+
 <!-- ![LeetCode Stats](https://leetcode.card.workers.dev/yshgit?theme=light&font=source_code_pro&extension=null) -->
 ![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=YSH-research&theme=radical)
 
