@@ -38,26 +38,8 @@
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
 <br><br>
-<!-- ===== [후보 1] github-profile-summary-cards (5종 카드 세트) ===== -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YSH-research&theme=default" alt="Profile Details" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YSH-research&theme=default" alt="Repos per Language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YSH-research&theme=default" alt="Most Commit Language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YSH-research&theme=default" alt="Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YSH-research&theme=default" alt="Productive Time" />
-<br><br>
 
-<!-- ===== [후보 2] github-readme-activity-graph (1년치 컨트리뷰션 라인차트) ===== -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YSH-research&bg_color=ffffff&color=000000&line=666666&point=333333&area=true&hide_border=false" alt="Activity Graph" />
-<br><br>
-
-<!-- ===== [후보 3] github-readme-stats (Stats + Top Languages) ===== -->
-<img src="https://github-readme-stats.vercel.app/api?username=YSH-research&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=666666&border_color=cccccc&show_icons=true" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YSH-research&bg_color=ffffff&title_color=000000&text_color=333333&border_color=cccccc&layout=compact" alt="Top Languages" />
-<br><br>
-
-<!-- ===== [후보 4] github-readme-streak-stats (연속 커밋 스트릭) ===== -->
-<img src="https://streak-stats.demolab.com/?user=YSH-research&background=ffffff&stroke=cccccc&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&currStreakNum=333333&sideNums=333333&dates=666666&hide_border=false" alt="Streak Stats" />
-
+<figure><embed src="https://wakatime.com/share/@YSH/2f82f432-91c3-49a1-8a1a-8e36f967acbd.svg"></embed></figure>
 
 <!-- ![LeetCode Stats](https://leetcode.card.workers.dev/yshgit?theme=light&font=source_code_pro&extension=null) -->
 ![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=YSH-research&theme=radical)
