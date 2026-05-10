@@ -38,12 +38,9 @@
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
 <br><br>
-<!-- <img src="https://wakatime.com/share/@20bef202-7584-45bd-9bb7-90dc982a12ec/4b15cd02-19be-4e65-b50a-74bd4512d8a9.svg" alt="WakaTime 코딩 활동 차트" width="400px" /> -->
-<img src="https://wakatime.com/share/@20bef202-7584-45bd-9bb7-90dc982a12ec/aad64cf8-814c-4cd1-b0d0-5ce7110a5a52.svg" alt="WakaTime 코딩 활동 차트" width="400px" />
-<img src="https://wakatime.com/share/@20bef202-7584-45bd-9bb7-90dc982a12ec/e1664775-209f-4ef0-b1a7-d00f27486fb3.svg" alt="WakaTime 코딩 활동 차트" width="400px" />
-<img src="https://wakatime.com/share/@20bef202-7584-45bd-9bb7-90dc982a12ec/198e49cc-f624-47a3-a890-ce8523eb34f3.svg" alt="WakaTime 코딩 활동 차트" width="400px" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YSH-research&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=666666&border_color=cccccc&hide_border=false" alt="WakaTime Stats" width="400px" />
 <br>
-![LeetCode Stats](https://leetcode.card.workers.dev/yshgit?theme=light&font=source_code_pro&extension=null)
+<!-- ![LeetCode Stats](https://leetcode.card.workers.dev/yshgit?theme=light&font=source_code_pro&extension=null) -->
 ![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=YSH-research&theme=radical)
 
 
